@@ -5,4 +5,5 @@ int main {
     cout << "Hello, World! (on raiting) 6" <<Endl;
     cout << "Hello, World! (on raiting) 5" <<Endl;
      cout << "Hello, World! (on comment) 7" <<Endl;
+    cout << "Hello, World! (on commet) 3" <<Endl;
 }
