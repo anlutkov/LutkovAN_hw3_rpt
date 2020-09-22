@@ -1,5 +1,5 @@
 #include <iostream>
 using namespace std;
 int main {  
-    cout << "Hello, World! (on master)" <<Endl;
+    cout << "Hello, World! (on raiting)" <<Endl;
 }
